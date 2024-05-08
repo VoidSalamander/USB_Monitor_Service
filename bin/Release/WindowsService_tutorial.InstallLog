@@ -1,0 +1,187 @@
+﻿正在安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+正在安裝服務 Service1...
+已經成功安裝服務 Service1。
+正在記錄檔 Application 中建立 EventLog 來源 Service1...
+正在認可組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+正在解除安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在移除 EventLog 來源 Service1。
+已從系統中移除服務 Service1...
+已經成功從系統移除服務 Service1。
+嘗試停止服務 Service1。
+正在安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在安裝服務 Service1...
+已經成功安裝服務 Service1。
+正在記錄檔 Application 中建立 EventLog 來源 Service1...
+正在認可組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在解除安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在移除 EventLog 來源 Service1。
+已從系統中移除服務 Service1...
+已經成功從系統移除服務 Service1。
+嘗試停止服務 Service1。
+正在安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在安裝服務 Service1...
+已經成功安裝服務 Service1。
+正在記錄檔 Application 中建立 EventLog 來源 Service1...
+正在認可組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在解除安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在移除 EventLog 來源 Service1。
+已從系統中移除服務 Service1...
+已經成功從系統移除服務 Service1。
+嘗試停止服務 Service1。
+正在安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在安裝服務 Service1...
+已經成功安裝服務 Service1。
+正在記錄檔 Application 中建立 EventLog 來源 Service1...
+正在認可組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在解除安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在移除 EventLog 來源 Service1。
+已從系統中移除服務 Service1...
+已經成功從系統移除服務 Service1。
+正在安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在安裝服務 Service1...
+已經成功安裝服務 Service1。
+正在記錄檔 Application 中建立 EventLog 來源 Service1...
+正在認可組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在解除安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在移除 EventLog 來源 Service1。
+已從系統中移除服務 Service1...
+已經成功從系統移除服務 Service1。
+正在安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在安裝服務 Service1...
+已經成功安裝服務 Service1。
+正在記錄檔 Application 中建立 EventLog 來源 Service1...
+正在認可組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在解除安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在移除 EventLog 來源 Service1。
+已從系統中移除服務 Service1...
+已經成功從系統移除服務 Service1。
+正在安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在安裝服務 Service1...
+已經成功安裝服務 Service1。
+正在記錄檔 Application 中建立 EventLog 來源 Service1...
+正在認可組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在解除安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在移除 EventLog 來源 Service1。
+已從系統中移除服務 Service1...
+已經成功從系統移除服務 Service1。
+嘗試停止服務 Service1。
+正在解除安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在移除 EventLog 來源 Service1。
+已從系統中移除服務 Service1...
+已經成功從系統移除服務 Service1。
+嘗試停止服務 Service1。
+正在安裝組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
+正在安裝服務 Service1...
+已經成功安裝服務 Service1。
+正在記錄檔 Application 中建立 EventLog 來源 Service1...
+正在認可組件 'C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe'。
+受影響的參數為:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.exe
+   logfile = C:\Users\88690\source\repos\WindowsService_tutorial\bin\Debug\WindowsService_tutorial.InstallLog
